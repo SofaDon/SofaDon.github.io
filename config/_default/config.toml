@@ -1,6 +1,6 @@
 baseURL = "https://sofadon.github.io/" # The URL of your site.
 title = "sofadon's website" # Title of your site
-theme = "zdoc" # Name of Zzo theme folder in `themes/`.
+theme = "myTemplate" # Name of Zzo theme folder in `themes/`.
 
 defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
 defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
