@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "1st Tag"
+  name = "1st Tag"
+  url = "1st Tag"
+  weight = 1
+
+[[main]]
+  identifier = "2nd Tag"
+  name = "2nd Tag"
+  url = "2nd Tag"
+  weight = 2
+
+[[main]]
+  identifier = "3rd Tag"
+  name = "3rd Tag"
+  url = "3rd Tag"
+  weight = 3
